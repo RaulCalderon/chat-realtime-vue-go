@@ -1,0 +1,22 @@
+# Compiled files from Go
+*.exe
+*.test
+*.out
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Tmp files from editor
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Node.js
+node_modules/
+dist/
+
+# Tmp files
+*.log
+*.tmp

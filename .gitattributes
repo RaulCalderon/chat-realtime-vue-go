@@ -1,0 +1,13 @@
+# Asegura saltos de línea consistentes en todos los sistemas operativos
+* text=auto
+
+# To handle LF line breake on Go files
+*.go text eol=lf
+
+# More files with LF
+*.mod text eol=lf
+*.sum text eol=lf
+
+*.html text eol=lf
+*.js text eol=lf
+*.css text eol=lf
